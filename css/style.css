@@ -27,9 +27,9 @@ html {
   box-sizing: border-box;
 }
 
-a {
+/* a {
   pointer-events: none;
-}
+} */
 
 .list-reset {
   list-style: none;
